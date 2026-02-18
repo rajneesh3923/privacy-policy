@@ -1,102 +1,123 @@
-# Privacy Policy
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+            color: #333;
+        }
+        h1, h2 {
+            color: #222;
+        }
+        hr {
+            margin: 30px 0;
+        }
+    </style>
+</head>
+<body>
 
-**Effective Date:** [Insert Date]
+<h1>Privacy Policy</h1>
+<p><strong>Effective Date:</strong> [Insert Date]</p>
 
-Thank you for using our app. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information.
+<p>Thank you for using our app. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information.</p>
 
----
+<hr>
 
-## 1. Information We Collect
+<h2>1. Information We Collect</h2>
+<p>Our app does <strong>not require account registration</strong> and does <strong>not collect personal information</strong> such as your name, email address, password, or Instagram login details.</p>
 
-Our app does **not require account registration** and does **not collect personal information** such as your name, email address, password, or Instagram login details.
+<p>However, we may automatically collect limited non-personal information, including:</p>
+<ul>
+    <li>Device information (device model, operating system version)</li>
+    <li>App usage data</li>
+    <li>Crash logs and diagnostics</li>
+    <li>Advertising identifiers (such as Google Advertising ID)</li>
+    <li>IP address (collected by advertising services)</li>
+</ul>
 
-However, we may automatically collect limited non-personal information, including:
+<p>This information is used to improve app performance, stability, and user experience.</p>
 
-- Device information (device model, operating system version)
-- App usage data
-- Crash logs and diagnostics
-- Advertising identifiers (such as Google Advertising ID)
-- IP address (collected by advertising services)
+<hr>
 
-This information is used to improve app performance, stability, and user experience.
+<h2>2. Advertising (AdMob)</h2>
+<p>Our app uses <strong>Google AdMob</strong> to display advertisements.</p>
 
----
+<p>AdMob may collect and process certain data, including:</p>
+<ul>
+    <li>Advertising ID</li>
+    <li>Device information</li>
+    <li>IP address</li>
+    <li>App interaction data</li>
+</ul>
 
-## 2. Advertising (AdMob)
+<p>This data is used to provide and improve advertising services, including personalized ads (where applicable).</p>
 
-Our app uses **Google AdMob** to display advertisements.
+<p>You can opt out of personalized advertising by adjusting your device’s ad settings:</p>
+<ul>
+    <li>Android: Settings → Google → Ads → Reset advertising ID or Delete advertising ID</li>
+</ul>
 
-AdMob may collect and process certain data, including:
-
-- Advertising ID
-- Device information
-- IP address
-- App interaction data
-
-This data is used to provide and improve advertising services, including personalized ads (where applicable).
-
-You can opt out of personalized advertising by adjusting your device’s ad settings:
-
-- Android: Settings → Google → Ads → Reset advertising ID or Delete advertising ID
-
-For more information, please review Google's Privacy Policy:
+<p>For more information, please review Google's Privacy Policy:</p>
+<p><a href="https://policies.google.com/privacy" target="_blank">
 https://policies.google.com/privacy
+</a></p>
 
----
+<hr>
 
-## 3. How the App Works
+<h2>3. How the App Works</h2>
+<p>The app allows users to download publicly available videos by pasting a public Instagram link.</p>
 
-The app allows users to download publicly available videos by pasting a public Instagram link.
+<p>We do <strong>not</strong>:</p>
+<ul>
+    <li>Access or store Instagram login credentials</li>
+    <li>Access private account content</li>
+    <li>Access direct messages</li>
+    <li>Store downloaded videos on our servers</li>
+</ul>
 
-We do **not**:
+<p>All downloads occur locally on the user’s device.</p>
 
-- Access or store Instagram login credentials
-- Access private account content
-- Access direct messages
-- Store downloaded videos on our servers
+<p>We are not affiliated with, endorsed by, or sponsored by Instagram.</p>
 
-All downloads occur locally on the user’s device.
+<hr>
 
-We are not affiliated with, endorsed by, or sponsored by Instagram.
+<h2>4. Data Sharing</h2>
+<p>We do not sell, trade, or rent user data.</p>
+<p>Data may be shared with trusted third-party service providers (such as AdMob) solely for advertising and analytics purposes.</p>
 
----
+<hr>
 
-## 4. Data Sharing
+<h2>5. Children’s Privacy</h2>
+<p>This app is not directed to children under the age of 13.</p>
+<p>We do not knowingly collect personal information from children. If we discover that a child under 13 has provided personal information, we will take steps to delete such information.</p>
 
-We do not sell, trade, or rent user data.
+<hr>
 
-Data may be shared with trusted third-party service providers (such as AdMob) solely for advertising and analytics purposes.
+<h2>6. Data Security</h2>
+<p>We implement reasonable technical and organizational measures to protect collected information from unauthorized access, alteration, disclosure, or destruction.</p>
 
----
+<hr>
 
-## 5. Children’s Privacy
+<h2>7. Copyright Notice</h2>
+<p>Users are responsible for the content they download. This app is intended for downloading publicly available content for personal use only. Users must comply with applicable copyright laws and platform terms of service.</p>
 
-This app is not directed to children under the age of 13.
+<hr>
 
-We do not knowingly collect personal information from children. If we discover that a child under 13 has provided personal information, we will take steps to delete such information.
+<h2>8. Changes to This Privacy Policy</h2>
+<p>We may update this Privacy Policy from time to time. Changes will be reflected by updating the Effective Date at the top of this document.</p>
 
----
+<hr>
 
-## 6. Data Security
+<h2>9. Contact Us</h2>
+<p>If you have any questions about this Privacy Policy, please contact us at:</p>
+<p><strong>Email:</strong> [Your Contact Email]</p>
 
-We implement reasonable technical and organizational measures to protect collected information from unauthorized access, alteration, disclosure, or destruction.
-
----
-
-## 7. Copyright Notice
-
-Users are responsible for the content they download. This app is intended for downloading publicly available content for personal use only. Users must comply with applicable copyright laws and platform terms of service.
-
----
-
-## 8. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. Changes will be reflected by updating the Effective Date at the top of this document.
-
----
-
-## 9. Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at:
-
-**Email:** support@indihivetech.com
+</body>
+</html>
